@@ -1,0 +1,25 @@
+{
+  "name": "true-zero",
+  "version": "1.0.1",
+  "description": "converting value of true to 1, false to 0, and otherwise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdkchy/true-zero.git"
+  },
+  "keywords": [
+    "true",
+    "false",
+    "1",
+    "0"
+  ],
+  "author": "kdkchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdkchy/true-zero/issues"
+  },
+  "homepage": "https://github.com/kdkchy/true-zero"
+}
