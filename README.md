@@ -12,13 +12,6 @@ it is simple, import it and you ready to go
 trueZero(false) // will return 0 
 </pre>
 
-or 
-
-<pre>import trueZero from 'true-zero'
-...
-trueZero(true) // will return 1
-</pre>
-
 ## string and integer
 you can pass parameter by any type, boolean, string, and integer
 
