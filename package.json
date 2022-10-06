@@ -1,6 +1,6 @@
 {
   "name": "true-zero",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "converting value of true to 1, false to 0, and otherwise",
   "main": "index.js",
   "scripts": {
